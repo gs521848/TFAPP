@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\TuiFangAPP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\TuiFangAPP\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\TuiFangAPP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alert_demo.xml",
+        "source": "D:\\TuiFangAPP\\app\\src\\main\\res\\menu\\alert_demo.xml"
+    },
+    {
+        "merged": "D:\\TuiFangAPP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "D:\\TuiFangAPP\\app\\src\\main\\res\\menu\\splash.xml"
+    }
+]

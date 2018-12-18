@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\TuiFangAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash.png",
+        "source": "D:\\TuiFangAPP\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\TuiFangAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\TuiFangAPP\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

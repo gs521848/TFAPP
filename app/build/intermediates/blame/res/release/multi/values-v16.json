@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "D:\\TuiFangAPP\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a32321cdaa600ee88ef2f47e26308536fe3a878e\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a32321cdaa600ee88ef2f47e26308536fe3a878e\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 289
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\3ebfc1a6c25b95df25e79b4686c8d16e2dfd0f79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\TuiFangAPP\app\build\intermediates\pre-dexed\debug\classes_beebff40c9bf077c45121de2bcf03e02dfd12bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\6ef3a786a150b7ace67b661bf69b28a4d4b31dea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="26ebe5f1e584ab68955c221073a9ba45b8adb80b">
+        <dex dex="D:\TuiFangAPP\app\build\intermediates\pre-dexed\debug\classes_d2f899b731fdcce9732bba07e6835191797926a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0-beta1\419585951f4c634aa292db0b734c29541a25b94a\support-annotations-26.0.0-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="419585951f4c634aa292db0b734c29541a25b94a">
+        <dex dex="D:\TuiFangAPP\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-beta1_49562bd499d6cfe9bc54d2825e868b56eda4f088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e350109017142e2cc343407149190f59350dc1ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d1665bf0bf1d4702216fd42524675d18c3789e87">
+        <dex dex="D:\TuiFangAPP\app\build\intermediates\pre-dexed\debug\classes_4d77e9cbc0d847e791dbdb36d34fe570cea7ff8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\3c2df9f87c309f845e5da6ff8fe8096789f6de04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="926c07c980679a35530feb532d8a5b19147916c3">
+        <dex dex="D:\TuiFangAPP\app\build\intermediates\pre-dexed\debug\classes_a06ce545c84f82a7152d18b56a1666cbdb07323c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TuiFangAPP\app\libs\ksoap2-android-assembly-3.6.2-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b457441023b25f0b6bae28c76be982a4e49a8666">
+        <dex dex="D:\TuiFangAPP\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.6.2-jar-with-dependencies_07ca1ebf0a5012d33076637b8d22d40ee0757aa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\b54b70ded5da114b293dc49b5fd2f6f81f602afd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e5ac95feaf0f7fe43e5581d852c5f5e252edea1">
+        <dex dex="D:\TuiFangAPP\app\build\intermediates\pre-dexed\debug\classes_e67393ee0b744e16f2cdf3c17fb6be11b0f0ea50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\88a3b74a7b7b6665b1d22287431187f605cad7cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="00290831ca6f060783db9c00f7d15c94b9096d7c">
+        <dex dex="D:\TuiFangAPP\app\build\intermediates\pre-dexed\debug\classes_1553e5cfa660ab16eb0ca27feedc2a19723c26cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\a32321cdaa600ee88ef2f47e26308536fe3a878e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d9d589dc939ea486f21c048cce2a1366d6f30fe9">
+        <dex dex="D:\TuiFangAPP\app\build\intermediates\pre-dexed\debug\classes_bea3bc3d0b921b49bfb2045d597bb1f4bc40fdca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0d8dfa78388f8dfcd5e8a91889a2c3d08df33d1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1d4a04619afc2262389ed421b6762c77e9dc7a46">
+        <dex dex="D:\TuiFangAPP\app\build\intermediates\pre-dexed\debug\classes_95b286d89485da579593021a0ef5590dcc529def.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\317d073865692d5ba6dd8ab7040ba6081b0cdec4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6c47b3d6ef74a657a38945022be05eb3b4360628">
+        <dex dex="D:\TuiFangAPP\app\build\intermediates\pre-dexed\debug\classes_2a4b42d9f1e9bef156f37943229f2c36c9680cc0.jar" />
+    </item>
+
+</items>
